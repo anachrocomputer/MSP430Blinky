@@ -15,6 +15,10 @@ The programs are in C and may be compiled with GCC on Linux.
 | LED    | P1.0 |  2  | Red LED  |
 | SQWAVE | P1.4 |  6  | 500Hz    |
 
+## MSP430 LaunchPad ##
+
+![MSP430 LaunchPad](MSP430LaunchPad.jpg "MSP430 LaunchPad")
+
 ## Building and Programming ##
 
 First of all, we'll need the MSP430 cross-compiler:
