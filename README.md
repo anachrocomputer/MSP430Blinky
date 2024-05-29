@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/MCU-MSP430-green "MCU:MSP430")
+
 # MSP430Blinky #
 
 A simple MSP430 test program to verify toolchain, programmer and chip.
